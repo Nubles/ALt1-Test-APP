@@ -1,0 +1,9 @@
+{
+    "name": "My First Alt1 App",
+    "version": "1.0",
+    "author": "Your Name",
+    "description": "A very basic Alt1 app",
+    "openBrowser": true,
+    "url": "index.html",
+    "permissions": []
+  }
